@@ -1,6 +1,6 @@
 # 💫 About Me:
     Hİ I'AM OKTAY
-ı am currently working on Frontend 
+I Am Currently Working on Frontend 
 
 
 # 💻 Tech Stack:
